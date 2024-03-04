@@ -50,3 +50,6 @@ To implement this, follow these steps:
     - If the method is not POST (i.e., GET), it means the user is accessing the page for the first time.
         
         It creates an empty `TaskForm` instance.
+- Create view functions to update and delete each task: `task`
+
+- Later, do styling with bootstrap
